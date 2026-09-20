@@ -1,0 +1,7 @@
+{
+  "project": "球迷共创城市记忆",
+  "records": [
+    {"id": "flag-guest-042", "kind": "fan_artifact", "origin_city": "长沙", "display_site": "永州体育场", "consent": ["现场展示"]},
+    {"id": "site-graffiti-wall", "kind": "memory_site", "theme": "湘超冠军城", "accepted_media": ["图片", "文字", "音频"]}
+  ]
+}
